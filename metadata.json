@@ -1,0 +1,6 @@
+{
+  "name": "TACTICAL STRIKE: UZ",
+  "description": "Birinchi shaxs taktik otishma o'yini - Tactical FPS game with original maps, human-like AI bots, modern arsenal, and multilingual interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
